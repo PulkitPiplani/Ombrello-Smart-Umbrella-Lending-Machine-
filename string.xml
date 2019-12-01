@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ombrello</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_out">Log Out</string>
+    <string name="rent">Rent</string>
+    <string name="retu">Return</string>
+    <string name="add_money">Add Money</string>
+    <string name="profile">Profile</string>
+    <string name="points">Points</string>
+    <string name="current_points">Current points :</string>
+    <string name="please_add_money_before_using_the_app">Please add money before using the app.</string>
+    <string name="please_try_again_after_some_time">Please try again after some time.</string>
+    <string name="stand_is_open_have_a_great_day">Stand is open.\nHave a great day.</string>
+    <string name="return_previous">Please return the previous umbrella.</string>
+    <string name="nothing_to_return">Please rent umbrella first.</string>
+</resources>
